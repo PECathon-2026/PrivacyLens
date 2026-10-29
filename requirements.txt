@@ -1,0 +1,11 @@
+# Core Dependencies
+pydantic>=2.0.0
+pytest>=7.0.0
+
+# Browser Automation & Frontend (Agent 1 & Agent 4)
+playwright>=1.40.0
+streamlit>=1.30.0
+
+# Optional Utilities
+pillow>=10.0.0
+
