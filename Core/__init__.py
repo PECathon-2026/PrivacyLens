@@ -17,6 +17,7 @@ from Core.contracts import (
 from Core.detector import SensitiveDataDetector, LuhnValidator, VerhoeffValidator
 from Core.sanitizer import DataSanitizer, SessionSecretStore
 from Core.firewall import PrivacyFirewall
+from Core.ai_client import AIModelClient
 
 __all__ = [
     "PageElement",
@@ -35,5 +36,5 @@ __all__ = [
     "DataSanitizer",
     "SessionSecretStore",
     "PrivacyFirewall",
+    "AIModelClient",
 ]
-

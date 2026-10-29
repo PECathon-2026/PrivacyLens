@@ -1,11 +1,13 @@
-# Core Dependencies
+# Local Privacy Gateway & Backend API
+fastapi>=0.110.0
+uvicorn>=0.28.0
 pydantic>=2.0.0
+
+# Testing & Security Auditing
 pytest>=7.0.0
 
-# Browser Automation & Frontend (Agent 1 & Agent 4)
+# Browser Automation (Agent 1)
 playwright>=1.40.0
-streamlit>=1.30.0
 
-# Optional Utilities
+# Image / Visual Redaction (Optional)
 pillow>=10.0.0
-

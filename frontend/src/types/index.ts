@@ -70,3 +70,4 @@ export interface SecretVaultItem {
   field_target: string;
   status: 'LOCKED_IN_MEMORY' | 'INJECTED';
 }
+

@@ -78,3 +78,4 @@ export const LocalVaultCard: React.FC<LocalVaultCardProps> = ({
     </Card>
   );
 };
+

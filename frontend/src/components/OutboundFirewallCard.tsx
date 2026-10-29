@@ -114,3 +114,4 @@ export const OutboundFirewallCard: React.FC<OutboundFirewallCardProps> = ({
     </Card>
   );
 };
+

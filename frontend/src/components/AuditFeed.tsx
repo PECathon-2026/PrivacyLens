@@ -71,3 +71,4 @@ export const AuditFeed: React.FC<AuditFeedProps> = ({ events }) => {
     </Card>
   );
 };
+

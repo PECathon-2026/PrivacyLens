@@ -266,3 +266,4 @@ export const INITIAL_AUDIT_EVENTS: AuditEvent[] = [
     decision: "FIREWALL_APPROVED_SAFE",
   },
 ];
+
